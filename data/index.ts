@@ -96,11 +96,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Austech Insure",
-    des: "Revamped the Austech Insure website by integrating dynamic GSAP animations and immersive Three.js 3D effects, enhancing the user experience and showcasing our insurance solutions in an engaging way.",
-    img: "/Austech_Insure.svg",
+    title: "Nike Shoe Store",
+    des: "Revamped the Nike shoes website by integrating dynamic GSAP animations and immersive Three.js 3D effects, enhancing the user experience and showcasing our footwear collection in an engaging and interactive way",
+    img: "/Nike_Bhutsu.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg",],
-    link: "https://github.com/billychosee",
+    link: "https://billy-nike-bhutsu.netlify.app/",
   },
 ];
 
