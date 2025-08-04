@@ -49,8 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building Austech Insure Website",
-    description: "Insurance",
+    title: "Currently building SmatPay Website",
+    description: "Payment Gateway",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -80,11 +80,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Tailwind Landing Page",
-    des: "Stay connected with Leicester City Football Club. Get updates and engage with fellow fans effortlessly",
-    img: "/Taiwind_project.svg",
+    title: "Smatech Group Website",
+    des: "Most Trusted Technology Service Provider. We specialize in delivering top-notch technology solutions to help businesses thrive in the digital age.",
+    img: "/Smatech_Website.svg",
     iconLists: ["/tail.svg", "/ts.svg"],
-    link: "https://billychosee.github.io/1st_Tailwind_Project/",
+    link: "https://www.smatechgroup.com",
   },
   {
     id: 3,
@@ -99,7 +99,7 @@ export const projects = [
     title: "Nike Shoe Store",
     des: "Revamped the Nike shoes website by integrating dynamic GSAP animations and immersive Three.js 3D effects, enhancing the user experience and showcasing our footwear collection in an engaging and interactive way",
     img: "/Nike_Bhutsu.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg",],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
     link: "https://billy-nike-bhutsu.netlify.app/",
   },
 ];
@@ -107,7 +107,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Billy was a great experience. His professionalism, quick responses, and dedication to high-quality work shone through at every stage of the project. Billy’s enthusiasm for development is genuinely impressive. If you’re aiming to elevate your website and brand, Billy is an outstanding choice.",
+      "Collaborating with Billy was a great experience. His professionalism, quick responses, and dedication to high-quality work shone through at every stage of the project. Billy's enthusiasm for development is genuinely impressive. If you're aiming to elevate your website and brand, Billy is an outstanding choice.",
     name: "Derrick Deshu",
     title: "Deshoe.inc",
   },
@@ -119,19 +119,19 @@ export const testimonials = [
   },
   {
     quote:
-      "Working with Billy was a fantastic experience. His professionalism, prompt communication, and commitment to high-quality results were evident throughout the entire project. Billy’s passion for development is truly remarkable. If you're looking to enhance your website and brand, Billy is an excellent choice.",
+      "Working with Billy was a fantastic experience. His professionalism, prompt communication, and commitment to high-quality results were evident throughout the entire project. Billy's passion for development is truly remarkable. If you're looking to enhance your website and brand, Billy is an excellent choice.",
     name: "Meekness Kaboti",
     title: "Director of Kabo Billiards",
   },
   {
     quote:
-      "Working with Billy was an exceptional experience. His professionalism, prompt replies, and commitment to delivering high-quality work were evident throughout the entire project. Billy’s passion for development is truly remarkable. If you want to enhance your website and brand, Billy is definitely a top-notch choice",
+      "Working with Billy was an exceptional experience. His professionalism, prompt replies, and commitment to delivering high-quality work were evident throughout the entire project. Billy's passion for development is truly remarkable. If you want to enhance your website and brand, Billy is definitely a top-notch choice",
     name: "Caleb Gondo",
     title: "Gondo designs",
   },
   {
     quote:
-      "Collaborating with Billy was a pleasure. His professionalism, responsiveness, and dedication to delivering high-quality work stood out at every step. Billy’s enthusiasm for development is impressive, making him an exceptional choice for anyone looking to elevate their website and brand.",
+      "Collaborating with Billy was a pleasure. His professionalism, responsiveness, and dedication to delivering high-quality work stood out at every step. Billy's enthusiasm for development is impressive, making him an exceptional choice for anyone looking to elevate their website and brand.",
     name: "Tapiwa Muchena",
     title: "Head Technologies",
   },
@@ -187,8 +187,8 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "FrontEnd - Smatech Group",
+    desc: "Developing and maintaining user interfaces for web applications using Next.js and Tailwind CSS.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
