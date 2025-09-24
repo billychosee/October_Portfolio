@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building SmatPay Website",
+    title: "Currently building SmatPay Website Zimbabwe",
     description: "Payment Gateway",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -88,11 +88,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Air BnB",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/Travel_Journal.svg",
+    title: "SmatPay",
+    des: "Secure and Convenient Payments. Your trusted partner for online transactions.",
+    img: "/smatPay-website.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://react-project-1-gamma.vercel.app/",
+    link: "https://smatpay.co.za/",
   },
   {
     id: 4,
