@@ -92,7 +92,7 @@ export const projects = [
     des: "Secure and Convenient Payments. Your trusted partner for online transactions.",
     img: "/smatPay-website.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "https://smatpay.co.za/",
+    link: "https://smatpay.co.za",
   },
   {
     id: 4,
